@@ -12,7 +12,8 @@
   <license>SwRI Proprietary</license>
   <buildtool_depend>catkin</buildtool_depend>
 
-  <depend>libqt4</depend>
+  <!--<depend>libqt4</depend>-->
+  <depend>libqt5-core</depend>
 
   <export>
   </export>
