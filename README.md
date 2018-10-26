@@ -22,7 +22,7 @@ libraries that it does not include.
 
 This has lead to many packages with separate branches for Indigo and post-Indigo
 development in which the only meaningful differences are in the `package.xml`
-files, and keeping this branches synchronized is annoying and error-prone.
+files, and keeping these branches synchronized is annoying and error-prone.
 
 The metapackages provided by this repository depend on rosdep keys for each
 platform that in turn depend on the appropriate Qt packages for that platform so
