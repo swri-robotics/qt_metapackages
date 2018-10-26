@@ -2,6 +2,9 @@
 Changelog for package libqt_opengl_dev
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.0 (2018-10-26)
 ------------------
 * Setup for Qt5
