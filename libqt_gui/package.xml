@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <package format="2">
   <name>libqt_gui</name>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <description>
 
      libqt-gui metapackage supporting qt4 and qt5
