@@ -2,8 +2,8 @@
 Changelog for package libqt_svg_dev
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2018-10-26)
+------------------
 * Fix libqt5-svg-dev key
 * Contributors: P. J. Reed
 

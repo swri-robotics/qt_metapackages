@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <package format="2">
   <name>qt_qmake</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <description>
 
      qt*-qmake metapackage supporting qt4 and qt5
