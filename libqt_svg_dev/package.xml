@@ -13,7 +13,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <!-- <depend>libqt4-dev</depend> -->
-  <depend>libqt5-svg-gui</depend>
+  <depend>libqt5-svg-dev</depend>
 
   <export>
   </export>
